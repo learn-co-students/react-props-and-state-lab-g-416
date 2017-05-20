@@ -42,10 +42,13 @@
     "mocha": "^3.0.0",
     "mocha-multi": "^0.9.0",
     "node-inspector": "^0.12.8",
-    "react-addons-test-utils": "^15.3.0"
+    "react-addons-test-utils": "^15.3.0",
+    "fetch-mock": "latest"
   },
   "dependencies": {
     "react": "^15.3.0",
-    "react-dom": "^15.3.0"
+    "react-dom": "^15.3.0",
+    "react-test-renderer": "latest",
+    "sinon": "^1.17.6"
   }
 }
